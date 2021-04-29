@@ -1,8 +1,8 @@
 # SimpleChatbot
 Creating my own neural network model and get response with tokenizing using nltk<br />
 Bot is running!<br />
-+hello<br />
 
++hello<br />
 -Hi there, how can I help?<br />
 +I want to buy a cookie!<br />
 -We sell chocolate chip cookies for $2!<br />
